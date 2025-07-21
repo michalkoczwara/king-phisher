@@ -28,3 +28,4 @@ SQLAlchemy>=1.0.15
 termcolor>=1.1.0
 tzlocal>=1.2.2
 XlsxWriter>=0.9.3
+aiohttp>=3.12.14 # not directly required, pinned by Snyk to avoid a vulnerability
